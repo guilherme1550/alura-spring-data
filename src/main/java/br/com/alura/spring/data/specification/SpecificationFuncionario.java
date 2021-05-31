@@ -1,4 +1,4 @@
-package specification;
+package br.com.alura.spring.data.specification;
 
 import java.time.LocalDate;
 

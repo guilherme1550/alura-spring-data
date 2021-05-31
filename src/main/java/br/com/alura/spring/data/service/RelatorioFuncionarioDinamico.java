@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
 
 import br.com.alura.spring.data.orm.Funcionario;
 import br.com.alura.spring.data.repository.FuncionarioRepository;
-import specification.SpecificationFuncionario;
+import br.com.alura.spring.data.specification.SpecificationFuncionario;
 
 @Service
 public class RelatorioFuncionarioDinamico {
